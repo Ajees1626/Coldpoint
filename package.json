@@ -1,0 +1,22 @@
+{
+  "name": "cold-point-frontend",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/build.mjs",
+    "preview": "vite preview",
+    "sitemap": "node scripts/generate-sitemap.mjs"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.11",
+    "@vitejs/plugin-react": "^6.0.2",
+    "tailwindcss": "^4.1.11",
+    "vite": "^8.0.16"
+  }
+}

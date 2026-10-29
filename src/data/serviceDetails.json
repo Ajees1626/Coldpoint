@@ -1,0 +1,346 @@
+{
+  "ac-installation": {
+    "slug": "ac-installation",
+    "title": "AC Installation",
+    "tagline": "Precision setup engineered for peak cooling performance",
+    "eyebrow": "Professional Installation",
+    "heroImage": "/image/sr1.webp",
+    "overview": "Cold Point delivers factory-standard AC installation for split, window, and inverter units — with optimal placement analysis, vacuum testing, electrical safety checks, and post-install performance validation.",
+    "stats": [
+      { "value": "5000+", "label": "Units Installed" },
+      { "value": "4.9★", "label": "Client Rating" },
+      { "value": "Same Day", "label": "Scheduling" },
+      { "value": "30 Days", "label": "Warranty" }
+    ],
+    "gallery": [
+      "/image/sr1.webp",
+      "/image/sr2.webp",
+      "/image/sr3.webp",
+      "/image/sr4.webp"
+    ],
+    "features": [
+      { "title": "Site Assessment", "description": "Room size, heat load, and electrical capacity evaluated before mounting begins." },
+      { "title": "Vacuum & Pressure Test", "description": "Refrigerant lines vacuumed and pressure-tested to eliminate leaks from day one." },
+      { "title": "Cable Management", "description": "Concealed wiring, secure brackets, and clean drain routing for a premium finish." },
+      { "title": "Performance Validation", "description": "Cooling output, airflow, and thermostat calibration verified before handover." }
+    ],
+    "process": [
+      { "step": "01", "title": "Site Survey", "description": "Technician maps room dimensions, sun exposure, and power supply." },
+      { "step": "02", "title": "Mount & Wire", "description": "Indoor/outdoor units mounted with vibration pads and secure brackets." },
+      { "step": "03", "title": "Vacuum Cycle", "description": "Lines evacuated, refrigerant charged, and system pressure-tested." },
+      { "step": "04", "title": "Handover", "description": "Digital invoice, warranty card, and usage briefing delivered." }
+    ],
+    "included": [
+      "Indoor & outdoor unit mounting",
+      "Copper piping up to standard length",
+      "Electrical connection & MCB check",
+      "Vacuum pump cycle & leak test",
+      "Drain pipe installation",
+      "Remote pairing & thermostat setup",
+      "30-day workmanship warranty"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Carrier", "Mitsubishi", "Hitachi"],
+    "pricingNote": "Installation from ₹1,499 — final quote based on unit type, piping length, and site conditions."
+  },
+  "ac-uninstallation": {
+    "slug": "ac-uninstallation",
+    "title": "AC Uninstallation",
+    "tagline": "Safe removal and relocation without wall damage or wiring faults",
+    "eyebrow": "Safe Removal & Relocation",
+    "heroImage": "/image/sr2.webp",
+    "overview": "Whether you're moving homes, renovating, or upgrading your unit — Cold Point technicians safely uninstall split and window ACs, recover refrigerant responsibly, and prepare units for storage or reinstallation at a new location.",
+    "stats": [
+      { "value": "3000+", "label": "Units Removed" },
+      { "value": "Zero", "label": "Wall Damage" },
+      { "value": "Same Day", "label": "Pickup Available" },
+      { "value": "30 Days", "label": "Service Warranty" }
+    ],
+    "gallery": [
+      "/image/sr2.webp",
+      "/image/sr1.webp",
+      "/image/home3_result.webp",
+      "/image/home4_result.webp"
+    ],
+    "features": [
+      { "title": "Damage-Free Removal", "description": "Indoor and outdoor units detached with care — no cracked walls or broken brackets." },
+      { "title": "Refrigerant Recovery", "description": "Remaining gas recovered safely before disconnection to protect the environment and your unit." },
+      { "title": "Relocation Ready", "description": "Copper pipes capped, wiring labelled, and components packed for transport or storage." },
+      { "title": "Reinstall Support", "description": "Book reinstallation at your new address with the same certified team for seamless continuity." }
+    ],
+    "process": [
+      { "step": "01", "title": "Pre-Check", "description": "Technician inspects unit condition, piping, and electrical connections before removal." },
+      { "step": "02", "title": "Gas Recovery", "description": "Refrigerant recovered and system depressurised using proper equipment." },
+      { "step": "03", "title": "Safe Dismount", "description": "Indoor/outdoor units removed, brackets taken down, and openings sealed if needed." },
+      { "step": "04", "title": "Handover", "description": "Unit packed for transport with a condition report and reinstallation quote if required." }
+    ],
+    "included": [
+      "Indoor & outdoor unit removal",
+      "Refrigerant recovery & safe handling",
+      "Bracket & mounting hardware removal",
+      "Copper pipe capping & labelling",
+      "Electrical disconnection & safety check",
+      "Wall hole patching guidance",
+      "Condition report on completion"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Whirlpool", "Godrej", "Panasonic"],
+    "pricingNote": "Uninstallation from ₹799 — relocation and reinstallation quoted separately based on distance and site."
+  },
+  "ac-repair": {
+    "slug": "ac-repair",
+    "title": "AC Repair",
+    "tagline": "Same-day diagnosis and certified repair for every cooling failure",
+    "eyebrow": "Emergency & Scheduled Repair",
+    "heroImage": "/image/sr2.webp",
+    "overview": "From compressor failures to PCB faults and refrigerant leaks — our certified engineers diagnose root causes fast, use genuine OEM parts, and restore cooling with transparent pricing before any work begins.",
+    "stats": [
+      { "value": "24/7", "label": "Emergency Desk" },
+      { "value": "2 Hrs", "label": "Avg. Response" },
+      { "value": "OEM", "label": "Genuine Parts" },
+      { "value": "30 Days", "label": "Repair Warranty" }
+    ],
+    "gallery": [
+      "/image/sr1.webp",
+      "/image/sr2.webp",
+      "/image/sr3.webp",
+      "/image/sr4.webp"
+    ],
+    "features": [
+      { "title": "Advanced Diagnostics", "description": "Multi-point inspection covering compressor, capacitor, PCB, sensors, and refrigerant levels." },
+      { "title": "Same-Day Dispatch", "description": "Emergency slots available across major metros with fully equipped service vans." },
+      { "title": "OEM Spare Parts", "description": "Brand-compatible components sourced directly — no cheap substitutes, ever." },
+      { "title": "Transparent Quotes", "description": "Clear breakdown of parts and labour before repair approval." }
+    ],
+    "process": [
+      { "step": "01", "title": "Report Issue", "description": "Book online, call, or WhatsApp — describe symptoms in seconds." },
+      { "step": "02", "title": "Diagnosis", "description": "Technician inspects unit and explains fault with photo evidence." },
+      { "step": "03", "title": "Repair", "description": "Approved parts replaced and system re-tested under load." },
+      { "step": "04", "title": "Warranty", "description": "Digital invoice and 30-day workmanship certificate issued." }
+    ],
+    "included": [
+      "Full system diagnostic report",
+      "Compressor & PCB testing",
+      "Capacitor & sensor checks",
+      "Refrigerant leak detection",
+      "OEM-compatible spare parts",
+      "Post-repair cooling validation",
+      "30-day repair warranty"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Whirlpool", "Godrej", "Panasonic"],
+    "pricingNote": "Inspection from ₹299 — repair cost quoted after diagnosis with no hidden charges."
+  },
+  "ac-gas-filling": {
+    "slug": "ac-gas-filling",
+    "title": "AC Gas Filling",
+    "tagline": "Precise refrigerant top-up with leak detection for maximum cooling",
+    "eyebrow": "Refrigerant & Gas Service",
+    "heroImage": "/image/sr3.webp",
+    "overview": "Low refrigerant is the leading cause of weak cooling. Cold Point performs accurate gas pressure testing, leak detection, vacuum cycles, and OEM-spec refrigerant charging — restoring your AC to factory cooling performance.",
+    "stats": [
+      { "value": "8000+", "label": "Gas Services Done" },
+      { "value": "100%", "label": "Pressure Tested" },
+      { "value": "R32/R410A", "label": "Refrigerants" },
+      { "value": "30 Days", "label": "Service Warranty" }
+    ],
+    "gallery": [
+      "/image/sr3.webp",
+      "/image/sr2.webp",
+      "/image/home2_result.webp",
+      "/image/home5_result.webp"
+    ],
+    "features": [
+      { "title": "Leak Detection First", "description": "Electronic leak detectors and soap tests locate leaks before any gas is added — preventing repeat top-ups." },
+      { "title": "OEM-Spec Charging", "description": "Refrigerant filled to manufacturer PSI levels for R22, R32, and R410A systems." },
+      { "title": "Vacuum & Purge Cycle", "description": "System evacuated to remove moisture and air before charging for optimal efficiency." },
+      { "title": "Cooling Validation", "description": "Supply and return air temperatures measured to confirm restored performance." }
+    ],
+    "process": [
+      { "step": "01", "title": "Pressure Check", "description": "Technician reads current gas pressure and inspects for visible leaks." },
+      { "step": "02", "title": "Leak Test", "description": "Full system scanned — coils, joints, and valves checked before refilling." },
+      { "step": "03", "title": "Vacuum & Charge", "description": "System evacuated and refrigerant charged to exact OEM specifications." },
+      { "step": "04", "title": "Performance Test", "description": "Cooling output verified and digital service report shared." }
+    ],
+    "included": [
+      "Gas pressure & subcooling check",
+      "Electronic leak detection",
+      "Vacuum pump cycle",
+      "OEM-spec refrigerant top-up",
+      "Valve core & flare inspection",
+      "Cooling performance report",
+      "30-day service warranty"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Carrier", "Hitachi", "Mitsubishi"],
+    "pricingNote": "Gas filling from ₹1,499 — final cost depends on refrigerant type, quantity, and leak repair if needed."
+  },
+  "ac-maintenance": {
+    "slug": "ac-maintenance",
+    "title": "AC Maintenance",
+    "tagline": "Preventive care that extends unit life and lowers energy bills",
+    "eyebrow": "Preventive Maintenance",
+    "heroImage": "/image/sr3.webp",
+    "overview": "Seasonal tune-ups, filter service, coil cleaning, and performance optimization — structured maintenance plans that keep your AC running efficiently through India's peak summer months.",
+    "stats": [
+      { "value": "40%", "label": "Energy Savings" },
+      { "value": "4×", "label": "Annual Visits" },
+      { "value": "AMC", "label": "Plans Available" },
+      { "value": "15%", "label": "Repair Discount" }
+    ],
+    "gallery": [
+      "/image/sr3.webp",
+      "/image/sr1.webp",
+      "/image/home3_result.webp",
+      "/image/home4_result.webp"
+    ],
+    "features": [
+      { "title": "Filter & Coil Service", "description": "Deep cleaning of filters, evaporator coils, and drain trays for healthier air." },
+      { "title": "Performance Tune-Up", "description": "Thermostat calibration, airflow balancing, and refrigerant level checks." },
+      { "title": "AMC Plans", "description": "Annual contracts with scheduled visits, priority booking, and repair discounts." },
+      { "title": "Digital Service Log", "description": "Every visit recorded with photos, readings, and next-service reminders." }
+    ],
+    "process": [
+      { "step": "01", "title": "Schedule Visit", "description": "Pick a slot or enroll in an AMC plan for automatic scheduling." },
+      { "step": "02", "title": "Inspection", "description": "Technician runs a 20-point maintenance checklist on your unit." },
+      { "step": "03", "title": "Service", "description": "Filters cleaned, coils treated, drains flushed, and parts lubricated." },
+      { "step": "04", "title": "Report", "description": "Digital service report with performance readings and recommendations." }
+    ],
+    "included": [
+      "Filter cleaning & replacement check",
+      "Evaporator coil treatment",
+      "Drain tray flush & anti-fungal spray",
+      "Gas pressure & leak inspection",
+      "Electrical connection audit",
+      "Cooling performance report",
+      "Next-service reminder"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Hitachi", "Carrier", "Haier"],
+    "pricingNote": "Maintenance from ₹499 per visit — AMC plans from ₹2,999/year with priority support."
+  },
+  "ac-amc-service": {
+    "slug": "ac-amc-service",
+    "title": "AC AMC Service",
+    "tagline": "Annual maintenance contracts with priority support and repair savings",
+    "eyebrow": "Annual Maintenance Contract",
+    "heroImage": "/image/sr4.webp",
+    "overview": "Cold Point AMC plans cover scheduled preventive visits, priority breakdown response, discounted repairs, and a dedicated service history — so your AC stays reliable year-round without surprise costs.",
+    "stats": [
+      { "value": "4", "label": "Visits Per Year" },
+      { "value": "15%", "label": "Repair Discount" },
+      { "value": "Priority", "label": "Booking" },
+      { "value": "24/7", "label": "Helpline" }
+    ],
+    "gallery": [
+      "/image/sr4.webp",
+      "/image/sr3.webp",
+      "/image/sr2.webp",
+      "/image/sr1.webp"
+    ],
+    "features": [
+      { "title": "Scheduled Visits", "description": "Pre-planned maintenance before summer and monsoon — no need to remember service dates." },
+      { "title": "Priority Breakdown Cover", "description": "AMC customers get first-slot booking and faster technician dispatch during emergencies." },
+      { "title": "Repair Discounts", "description": "15% off all spare parts and labour for the duration of your contract." },
+      { "title": "Digital Service History", "description": "Full log of every visit, readings, and recommendations accessible anytime." }
+    ],
+    "process": [
+      { "step": "01", "title": "Choose Plan", "description": "Select Basic, Standard, or Premium AMC based on units and usage." },
+      { "step": "02", "title": "Onboarding", "description": "Technician registers your AC model, age, and baseline performance readings." },
+      { "step": "03", "title": "Scheduled Service", "description": "Quarterly visits with reminders — filter, coil, gas, and electrical checks." },
+      { "step": "04", "title": "Renewal Review", "description": "Annual performance summary and renewal offer before contract expiry." }
+    ],
+    "included": [
+      "4 scheduled preventive visits per year",
+      "Filter & coil cleaning each visit",
+      "Gas pressure check & top-up inspection",
+      "Priority emergency booking",
+      "15% discount on repairs & spare parts",
+      "24/7 AMC customer helpline",
+      "Digital service history & reminders"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Whirlpool", "Godrej", "Panasonic"],
+    "pricingNote": "AMC from ₹2,999/year per unit — multi-unit and corporate plans available on request."
+  },
+  "ac-cleaning": {
+    "slug": "ac-cleaning",
+    "title": "AC Cleaning",
+    "tagline": "Deep cleaning for healthier air and stronger cooling performance",
+    "eyebrow": "Deep Clean Service",
+    "heroImage": "/image/home3_result.webp",
+    "overview": "Dust, mould, and bacteria build up inside AC units over time — reducing cooling and affecting air quality. Cold Point deep cleans indoor and outdoor units with foam treatment, anti-bacterial spray, and drain flushing for a fresher, cooler home.",
+    "stats": [
+      { "value": "99%", "label": "Dust Removal" },
+      { "value": "2 Hrs", "label": "Avg. Service Time" },
+      { "value": "Anti-Bac", "label": "Treatment" },
+      { "value": "30 Days", "label": "Service Warranty" }
+    ],
+    "gallery": [
+      "/image/home3_result.webp",
+      "/image/before1.1_result.webp",
+      "/image/after%201.1_result.webp",
+      "/image/home4_result.webp"
+    ],
+    "features": [
+      { "title": "Indoor Deep Clean", "description": "Filter, blower, evaporator coil, and drain tray cleaned with foam and jet wash." },
+      { "title": "Outdoor Unit Wash", "description": "Condenser coil and fan blades cleaned to restore heat exchange efficiency." },
+      { "title": "Anti-Bacterial Spray", "description": "Hospital-grade treatment applied to coils and trays to eliminate mould and odour." },
+      { "title": "Before/After Report", "description": "Photo documentation of cleaning results shared with every service." }
+    ],
+    "process": [
+      { "step": "01", "title": "Cover & Prep", "description": "Indoor unit masked, drain connected, and workspace protected before cleaning." },
+      { "step": "02", "title": "Foam Treatment", "description": "Coils and filters treated with professional-grade cleaning foam." },
+      { "step": "03", "title": "Jet Wash", "description": "High-pressure rinse removes dirt, mould, and debris from all components." },
+      { "step": "04", "title": "Sanitize & Test", "description": "Anti-bacterial spray applied and cooling performance verified." }
+    ],
+    "included": [
+      "Indoor filter & blower cleaning",
+      "Evaporator coil foam wash",
+      "Drain tray flush & unclog",
+      "Outdoor condenser coil wash",
+      "Anti-bacterial & anti-fungal spray",
+      "Before/after photo report",
+      "30-day service warranty"
+    ],
+    "brands": ["Daikin", "LG", "Samsung", "Voltas", "Blue Star", "Hitachi", "Carrier", "Haier"],
+    "pricingNote": "Deep cleaning from ₹1,299 per unit — combo indoor + outdoor packages available at discounted rates."
+  },
+  "commercial-ac-service": {
+    "slug": "commercial-ac-service",
+    "title": "Commercial HVAC",
+    "tagline": "Enterprise cooling infrastructure for offices, retail, and industry",
+    "eyebrow": "Commercial & Industrial",
+    "heroImage": "/image/sr4.webp",
+    "overview": "Cold Point manages VRF systems, cassette units, chillers, and central plant HVAC for commercial environments — with SLA-backed response times, dedicated account managers, and compliance-ready service documentation.",
+    "stats": [
+      { "value": "2500+", "label": "Corporate Clients" },
+      { "value": "SLA", "label": "Backed Response" },
+      { "value": "VRF", "label": "Specialists" },
+      { "value": "Pan-India", "label": "Coverage" }
+    ],
+    "gallery": [
+      "/image/sr4.webp",
+      "/image/sr1.webp",
+      "/image/home5_result.webp",
+      "/image/home1_result.webp"
+    ],
+    "features": [
+      { "title": "VRF & Cassette Systems", "description": "Specialist teams for multi-zone VRF, ductable, and cassette installations." },
+      { "title": "SLA Contracts", "description": "Guaranteed response windows with escalation paths for mission-critical sites." },
+      { "title": "Dedicated Account Manager", "description": "Single point of contact for scheduling, reporting, and billing across locations." },
+      { "title": "Compliance Documentation", "description": "Service logs, refrigerant records, and safety certificates for audit readiness." }
+    ],
+    "process": [
+      { "step": "01", "title": "Site Audit", "description": "Engineering team maps HVAC assets, load profiles, and maintenance history." },
+      { "step": "02", "title": "Custom Plan", "description": "SLA, visit frequency, and spare parts strategy tailored to your facility." },
+      { "step": "03", "title": "Execute", "description": "Certified teams service units with minimal downtime to operations." },
+      { "step": "04", "title": "Report & Review", "description": "Quarterly performance reviews with energy and uptime metrics." }
+    ],
+    "included": [
+      "VRF, cassette & central plant service",
+      "Preventive maintenance schedules",
+      "Emergency breakdown response",
+      "Refrigerant management & logging",
+      "Energy efficiency audits",
+      "Multi-site coordination",
+      "Dedicated account manager"
+    ],
+    "brands": ["Daikin", "Carrier", "Mitsubishi", "Blue Star", "Trane", "York", "LG", "Hitachi"],
+    "pricingNote": "Custom enterprise quotes — contact us for site audit and SLA proposal."
+  }
+}

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Disallow: /dist/
+Disallow: /node_modules/
+Disallow: /assets/*.map
+
+Sitemap: https://coldpoint.in/sitemap.xml
+
+# Crawl-delay not required for Google; omitted per best practices
